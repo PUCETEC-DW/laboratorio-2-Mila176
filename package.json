@@ -1,4 +1,8 @@
 {
+  "homepage": "https://Mila176.github.io/laboratorio-2-Mila176",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
