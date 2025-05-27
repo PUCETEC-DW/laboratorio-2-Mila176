@@ -1,0 +1,26 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #dcffd4;
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+}
+header{
+    background: linear-gradient(45deg, #ffcba4, #b5baff);
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+main{
+    max-width: 800px;
+    padding: 20px;
+    background-color: hsl(216, 100%, 90%);
+    border-radius: 8px;
+    text-align: center;
+}
+
+#buscar{
+  background: #6cdcf9;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 5px;
+  padding: 5px;
+}
